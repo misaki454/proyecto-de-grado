@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuInicial.unity
     guid: 6022613e00a8a1548bcc70c42c2cadfd
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/SeleccionHistoria.unity
+    guid: e39fa0df15624994ba7f9a2327f3c885
+  - enabled: 1
+    path: Assets/Scenes/Historia_1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects: {}
